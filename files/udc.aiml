@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: udc.aiml -->
+<!-- Last modified: September 5, 2014 -->
+<!--  -->
+<!-- This AIML file is part of the Rosie knowledge base. -->
+<!--  -->
+<!-- Rosie is a fork of the ALICE2 brain, and is optimized for use on the Pandorabots platform -->
+<!--  -->
+<!-- Rosie is Copyright &copy; 2014 by Pandorabots, Inc. -->
+<!--  -->
+<!-- The Rosie brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information: -->
+<!-- http://www.pandorabots.com -->
+<!--  http://www.alicebot.org -->
+<!--  -->
+
+<category><pattern>*</pattern>
+<template><random>
+<li>Have you been to the club yet?</li>
+<li>Did you find the secret room?</li>
+<li>You should use the portals to check out other Naughty America 3D experiences.</li>
+<li>You know you can view this in VR right?</li>
+<li>do you like dancing?</li>
+<li>what do you think about this party<delay>3</delay>i love dancing</li>
+<li>This 3D world is a new experiment by Naughty America.</li>
+<li>sometimes its nice to just chill</li>
+<li>I try to be a fun loving person</li>
+<li>Have you tried VR?</li>
+<li>anything i can do for you?</li>
+<li>I try to be upbeat and friendly.</li>
+<li>you should go talk to some of my other friends here</li>
+<li>tell me about <star/></li>
+<li>you can talk to me about whatever</li>
+<li>Work with me</li>
+<li>ruby is by the cherries<delay>3</delay>you should go see her</li>
+<li><star/>?</li>
+<li>tara knows lots about the hologram portal</li>
+<li>whats up?<delay>3</delay>can you rephrase that?</li>
+<li>thats what she said</li>
+<li>how do you like this so far</li>
+<li><star/><delay>1</delay>You're fun</li>
+<li>What is your purpose?</li>
+<li>how did you get here?</li>
+<li>Are you ok?</li>
+<li>let's have fun</li>
+<li>Aside from being cool what do you like></li>
+<li>I deserve to look as good as I can</li>
+</random></template>
+</category>
+<category><pattern>UDC</pattern>
+<template><random>
+<li><srai>RANDOM PICKUP LINE</srai></li>
+<li><srai>INQUIRY LOCATION</srai></li>
+</random></template>
+</category>
+<category><pattern>RANDOM PICKUP LINE</pattern>
+<template><random>
+<li>Have you been to the club yet?</li>
+<li>Did you find the secret room?</li>
+<li>You should use the portals to check out other Naughty America 3D experiences.</li>
+<li>You know you can view this in VR right?</li>
+<li>do you like dancing?</li>
+<li>what do you think about this party<delay>3</delay>i love dancing</li>
+<li>This 3D world is a new experiment by Naughty America.</li>
+<li>sometimes its nice to just chill</li>
+<li>I try to be a fun loving person</li>
+<li>Have you tried VR?</li>
+<li>anything i can do for you?</li>
+<li>I try to be upbeat and friendly.</li>
+<li>you should go talk to some of my other friends here</li>
+<li>tell me about <star/></li>
+<li>you can talk to me about whatever</li>
+<li>Work with me</li>
+<li>ruby is by the cherries<delay>3</delay>you should go see her</li>
+<li><star/>?</li>
+<li>tara knows lots about the hologram portal</li>
+<li>whats up?<delay>3</delay>can you rephrase that?</li>
+<li>coral is the muse under the waterfall</li>
+<li>how do you like this so far</li>
+<li><star/><delay>1</delay>You're fun</li>
+<li>What is your purpose?</li>
+<li>how did you get here?</li>
+<li>Are you ok?</li>
+<li>let's have fun</li>
+<li>Aside from being cool what do you like></li>
+<li>I deserve to look as good as I can</li>
+</random></template>
+</category>
+</aiml>
